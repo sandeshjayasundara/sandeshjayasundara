@@ -22,6 +22,11 @@
 ## 📈 GitHub Stats:
 ![Sithija's GitHub stats](https://github-readme-stats.vercel.app/api?username=sandeshjayasundara&show_icons=true&theme=radical)
 
+## 🐍 Watch My Contributions Snake 🐍
+
+![Snake animation](https://github.com/sandeshjayasundara/sandeshjayasundara/blob/output/github-contribution-grid-snake.svg)
+
+
 ## 📫 Connect with me:
 - [LinkedIn](linkedin.com/in/sithija-sandesh-ba0820325/)
 
