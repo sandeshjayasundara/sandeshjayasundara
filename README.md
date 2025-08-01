@@ -8,7 +8,7 @@
 - 💾 Databases: MySQL | MongoDB
 - 🧰 Tools: Git | GitHub | Trello | Blender | Unity | VS Code
 
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=john123&layout=compact&theme=radical)
+
  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
 
  ## 🛠️ Technologies & Tools
