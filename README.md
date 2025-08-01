@@ -22,9 +22,6 @@
 ## 📈 GitHub Stats:
 ![Sithija's GitHub stats](https://github-readme-stats.vercel.app/api?username=sandeshjayasundara&show_icons=true&theme=radical)
 
-## 🐍 Watch My Contributions Snake 🐍
-
-![Snake animation](https://raw.githubusercontent.com/sandeshjayasundara/github-contribution-grid-snake/output/github-contribution-grid-snake.svg)
 
 
 ## 📫 Connect with me:
