@@ -14,11 +14,6 @@
 ![Spring Boot](https://img.shields.io/badge/-SpringBoot-6DB33F?logo=spring-boot&logoColor=white&style=for-the-badge)
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white&style=for-the-badge)
 
-## 📊 GitHub Stats
-![sandeshjayasundara's GitHub stats](https://github-readme-stats.vercel.app/api?username=sandeshjayasundara&show_icons=true&theme=radical)
-
-
-
 ## 📈 GitHub Stats:
 ![Sithija's GitHub stats](https://github-readme-stats.vercel.app/api?username=sandeshjayasundara&show_icons=true&theme=radical)
 
