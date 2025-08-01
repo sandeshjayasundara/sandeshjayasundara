@@ -24,7 +24,7 @@
 
 ## 🐍 Watch My Contributions Snake 🐍
 
-![Snake animation](https://github.com/sandeshjayasundara/sandeshjayasundara/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/sandeshjayasundara/github-contribution-grid-snake/output/github-contribution-grid-snake.svg)
 
 
 ## 📫 Connect with me:
