@@ -1,5 +1,5 @@
 # 👋 Hello there! I'm Sithija Sandesh
-- 📫 Reach me at: john@example.com
+- 📫 Reach me at: sithijasandesh2@gmail.com
 
 🎓 Computer Science Undergraduate | 💻 Software Developer | 🎮 Game Designer
 
